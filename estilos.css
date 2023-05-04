@@ -44,3 +44,31 @@ nav a:hover{
         padding: 10px 0px;
     }
 }
+main{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Imagen/hamburguesa2.avif);
+    color: white;
+    background-size: cover;
+    background-position: center;
+}
+.call{
+    padding: 0px;
+    background-color: rgb(0, 0, 0, 0.7);
+    height: 150px;
+    width: 70%;
+    
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.call p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+
