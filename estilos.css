@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(12, 12, 124);
+    min-height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    font-size: 40px;
+    color: rgb(238, 228, 228);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+.logo{
+    color:white;
+}
+header span{
+    color: rgb(19, 17, 17);
+    text-shadow: 0 0 2px black;
+}
+a{
+    text-decoration: none;
+}
+nav a{
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+nav a:hover{
+    color: black
+}
+
+@media (max-width:970px){
+    header{
+        flex-direction: column;
+    }
+    nav{
+        padding: 10px 0px;
+    }
+}
