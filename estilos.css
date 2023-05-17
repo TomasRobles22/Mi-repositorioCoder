@@ -168,3 +168,51 @@ footer a{
     font-size: 50px;
     letter-spacing: 15px;
 }
+body {
+    background-color: rgb(7, 7, 7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hamburguesas2{
+    background-image: url(imagen/hamburguesa2.avif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    height: 800px;
+}
+h4{
+    color: white;
+    text-align: center;
+    padding: 100px;
+    font-size: 50px;
+}
+input {
+    color: white ;
+    background-color: rgb(38, 20, 197);
+    padding: 15px;
+    width: 50%;
+    height: 100%;
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 500px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+button {
+    padding: 20px;
+    background-color: rgb(38, 20, 197);
+    color: #fff;
+    display: grid;
+    margin: 6em auto;
+    border-radius: 10px;
+}
+.pie-pagina{
+    background-color: rgb(12, 12, 124);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.redess a{
+    color: white;
+}
