@@ -172,13 +172,13 @@ body {
     background-color: rgb(7, 7, 7);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.hamburguesas2{
+/* .hamburguesas2{
     background-image: url(imagen/hamburguesa2.avif);
     background-size: cover;
     background-position: center;
     border-radius: 10px;
     height: 800px;
-}
+} */
 h4{
     color: white;
     text-align: center;
